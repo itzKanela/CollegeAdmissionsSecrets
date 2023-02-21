@@ -1,0 +1,35 @@
+body{
+    margin: 1em 6em;
+    font-family: 'Lato', sans-serif;
+}
+
+.photo{
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+.container{
+    display: flex;
+}
+
+h3{
+    color: #B1B1B1;
+    font-weight: 100;
+}
+
+h2{
+    font-weight: 800;
+}
+
+.logo{
+    width: 150px;
+}
+
+.align{
+    padding: 2% 2%;
+}
+
+p{
+    font-size: 1.5em;
+}
